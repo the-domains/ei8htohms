@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: Breath is the canvas
-dateModified: '2016-12-12T02:18:09.792Z'
-datePublished: '2016-12-12T02:18:11.065Z'
+dateModified: '2016-12-12T02:17:52.709Z'
+datePublished: '2016-12-12T02:17:53.501Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-hasPage: true
 starred: false
-datePublishedOriginal: '2016-12-12T02:18:08.206Z'
+datePublishedOriginal: '2016-12-12T02:17:51.852Z'
+hasPage: true
 sourcePath: _posts/2016-12-12-breath-is-the-canvas.md
 url: breath-is-the-canvas/index.html
 _type: Article
@@ -26,10 +26,8 @@ _type: Article
 **Rapid-fire bursts of butterfly flappings lasso instances of its vicinity.**
 
 **More often it is conscious of me**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31b652b7-070d-4d8f-b00b-5ce6657d0db4.jpg)
 
 **Bound, lashed**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31b652b7-070d-4d8f-b00b-5ce6657d0db4.jpg)
 
 **To the star of my predilection**
-
----
