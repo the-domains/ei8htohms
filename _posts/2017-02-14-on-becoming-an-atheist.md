@@ -1,6 +1,7 @@
 ---
 title: On Becoming an Atheist
-dateModified: '2017-02-14T02:33:26.126Z'
+datePublished: '2017-02-15T23:15:57.311Z'
+dateModified: '2017-02-15T23:15:30.955Z'
 publisher: {}
 author: []
 inFeed: true
@@ -15,7 +16,6 @@ description: >-
   when laughing for any reason would've triggered great familial shame and
   incurred the wrath of our grandmother.
 via: {}
-datePublished: '2017-02-14T02:33:48.926Z'
 starred: false
 datePublishedOriginal: '2017-02-14T02:33:48.926Z'
 sourcePath: _posts/2017-02-14-on-becoming-an-atheist.md
@@ -74,7 +74,7 @@ It took me quite a few months to get over the anger I held towards my parents an
 
 And don't get me wrong, I can appreciate the need for a good story. The mind is quite allergic to unintegrated experiences, and when one experiences the transcendent or the ineffable - whether in meditation, prayer, while drunk or chemically altered, or just by the great fortune of being human - one tends to need desperately to make sense of that experience. So any good story that also happens be believed and cherished by our family, and maybe our larger community as well, makes for a pretty good fit. And a welcome way to keep one's wits from flying rapidly out of one's ears in the presence of the unfathomable.
 
-I am not one of those atheists who firmly asserts that the shared physical reality that can be measured, tested and quantified in [repeatable, reproducible ways][38] is absolutely all that exists. I continue to practice meditation daily (I've switched to a completely secular form of [nondirective meditation][39] called [Acem][40]) and I won't pretend to understand everything that I've experienced, nor would I be so arrogant as to dismiss everything that someone else might've experienced that doesn't fit within the constraints of [rational][41][realism][42] in so far as we might agree upon them. I won't however accept unsupported truth claims at face value nor will I go out of my way to treat someone else's religious views as unassailable or above reproach, especially when they lead to positions that encroach on the rights of others. Good ideas withstand scrutiny, and bad ideas are not good for anyone.
+I am not one of those atheists who firmly asserts that the shared physical reality that can be measured, tested and quantified in [repeatable, reproducible ways][38] is absolutely all that exists. I continue to practice meditation daily (I've switched to a completely secular form of [nondirective meditation][39] called [Acem][40]) and I won't pretend to understand everything that I've experienced, nor would I be so arrogant as to dismiss everything that someone else might've experienced that doesn't fit within the constraints of [rational ][41][realism][42] in so far as we might agree upon them. I won't however accept unsupported truth claims at face value nor will I go out of my way to treat someone else's religious views as unassailable or above reproach, especially when they lead to positions that encroach on the rights of others. Good ideas withstand scrutiny, and bad ideas are not good for anyone.
 
 ---
 
