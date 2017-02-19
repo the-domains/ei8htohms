@@ -1,17 +1,17 @@
-typography_spectrum: 0.8553917587269098
+layout_spectrum: 0.9966649238648133
+typography_spectrum: 0.28228633455203683
 color:
-  brandStrength: 0.48014909541234374
-  lightness: 0.3094525239430368
-  saturation: 0.4839152190834284
-  rhythmicContrast: 0.8377956703770906
+  brandStrength: 0.3969310386333209
+  lightness: 0.594327914984159
+  saturation: 0.4134070693943096
+  rhythmicContrast: 0.2442199542593801
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
 github: true
-layout_spectrum: 0.10649035940878093
 name: ei8htohms
 url: 'http://ei8htohms.com'
 content: []
