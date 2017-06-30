@@ -1,17 +1,35 @@
-layout_spectrum: 0.10061531699179571
-typography_spectrum: 0.30336148583164235
+layout_spectrum: 0.9604128961026263
+typography_spectrum: 0.500975445081194
 color:
-  brandStrength: 0.40084567875001986
-  lightness: 0.9364436743441638
-  saturation: 0.22762549963650652
-  rhythmicContrast: 0.25085123521875186
+  lightness: 0.4023160648813453
   brandColors:
     - '#D8CAA8'
     - '#5C832F'
     - '#284907'
     - '#382513'
     - '#363942'
-github: true
+  saturation: 0.9466225171010794
+  brandStrength: 0.40478857285619746
+  rhythmicContrast: 0.5568829991107825
 name: ei8htohms
-url: 'http://ei8htohms.com'
+analytics: {}
+github: true
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 content: []
+content_rating:
+  adult: false
+opengraph: {}
+title: ei8htohms
+url: 'https://ei8htohms.com'
